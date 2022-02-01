@@ -1,7 +1,6 @@
 # 🏗️ Boilerplate for Nuxt, Tailwind & NetlifyCMS
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cb2d4cc5-8a65-4940-81ce-4456ff96e6db/deploy-status)](https://app.netlify.com/sites/ntn-boilerplate/deploys) ← replace with [your own](https://app.netlify.com/sites/YOUR_NETLIFY_SITE_SLUG/settings/general#deploy-status-badge)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1d705e4a-f7e0-41b3-96c6-753245886777/deploy-status)](https://app.netlify.com/sites/lucid-dijkstra-12c76a/deploys)
 **[Live Demo](https://ntn-boilerplate.netlify.app/)**
 
 An opinionated starter template for a quick start with the following technologies up on a site after only 5 minutes!
